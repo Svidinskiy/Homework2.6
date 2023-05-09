@@ -54,6 +54,7 @@ public class Main {
             int count = Collections.frequency(strings, uniqueString);
             System.out.println(uniqueString + " повторяется " + count + " раз(а)");
         }
+
         System.out.println("\n");
     }
 
